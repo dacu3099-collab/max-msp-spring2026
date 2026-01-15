@@ -13,6 +13,16 @@
         "boxes": [
             {
                 "box": {
+                    "id": "obj-48",
+                    "maxclass": "comment",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [ 1031.6239420771599, 117.94871914386749, 150.0, 20.0 ],
+                    "text": "hello world"
+                }
+            },
+            {
+                "box": {
                     "id": "obj-46",
                     "maxclass": "number",
                     "numinlets": 1,
